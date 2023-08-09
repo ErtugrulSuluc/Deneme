@@ -9,7 +9,7 @@ public class Main {
 
         System.out.println("----------------------");
 
-        String isim  = " Ertuğrul", soyisim =" Sülüç";
+        String isim  = " Ertugrul", soyisim =" Suluc";
         System.out.println("İsminiz="+isim+soyisim);
 
 
